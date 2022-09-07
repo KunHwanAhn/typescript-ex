@@ -1,0 +1,11 @@
+{
+  "include": ["src/04_ts_blockchain/src/**/*"],
+  "compilerOptions": {
+    "outDir": "src/04_ts_blockchain/build",
+    "target": "ES2015",
+    "lib": ["ES2015"],
+    "strict": true,
+    "esModuleInterop": true,
+    "module": "CommonJS"
+  }
+}
